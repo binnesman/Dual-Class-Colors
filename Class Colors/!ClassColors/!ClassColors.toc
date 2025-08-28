@@ -1,0 +1,24 @@
+﻿## Interface: 30300
+## Version: 5.4.7.94-wotlk backport customized for Synastria
+
+## Title: Class Colors |cfff5bfc8[Synastria]|r
+## Notes: Change class colors without breaking the Blizzard UI.
+## Notes-deDE: Erlaubt das Ändern der Klassenfarben ohne Interferenzen mit dem Blizzard UI.
+## Notes-esES: Cambiar los colores de clase sin romper la interfaz de usario de Blizzard.
+## Notes-esMX: Cambiar los colores de clase sin romper la interfaz de usario de Blizzard.
+## Notes-ptBR: Mudar as cores de classes sem quebrar a interface do usuário da Blizzard.
+
+## Author: Phanx
+## X-Email: addons@phanx.net
+## X-Copyright: Copyright (c) 2009-2014 Phanx, All rights reserved.
+## X-License: See accompanying LICENSE file for details.
+## X-CompatibleLocales: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ruRU, zhCN, zhTW
+## X-Localizations: enUS, deDE, esES, esMX, ptBR
+## X-Website: http://www.wowinterface.com/downloads/info12513-ClassColors.html
+## X-Curse-Project-ID: classcolors
+## X-WoWI-ID: 12513
+
+## SavedVariables: ClassColorsDB
+
+ClassColors.lua
+ClassColorsBlizz.lua
